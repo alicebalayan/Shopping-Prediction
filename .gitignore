@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 datasets/2020-Feb.csv
 datasets/2020-Jan.csv
+output/
